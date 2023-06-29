@@ -1,0 +1,17 @@
+{
+    "name": "uma/php-sql-app",
+    "autoload": {
+        "psr-4": {
+            "Uma\\PhpSqlApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "UmamaheshMaxwell",
+            "email": "devopswithkube@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
